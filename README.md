@@ -1,5 +1,5 @@
 # Azure-chat bot
-This is informational bot application developed for education related to give information about artifical intelligence and azure artifical intelligence. ##This is web based informational bot application has been developed for the accomplishment of future ready talent intership programme launchede by microsoft,futureskill prime,future ready talent,github.
+This is informational bot application developed for education related to give information about agriculture research and azure agriculture research. ##This is web based informational bot application has been developed for the accomplishment of future ready talent intership programme launchede by microsoft,futureskill prime,future ready talent,github.
 
 ##project link:https://sites.google.com/view/agriculture-research523/home
 
@@ -17,7 +17,7 @@ This is informational bot application developed for education related to give in
 ->Included the contact information to increase scope of improvement.
 ->AI chatbots use natural language processing (NLP) to help users to interact with web services or apps through text, graphics, or speech. Chatbots can understand natural human language, emulate human conversation, and run simple, automated tasks.
 
-##About agriculture researchr chat bot
+##About agriculture research chat bot
 ->An agriculture researche chatbot is a software application that engages in human conversation in a natural way. agriculture researche chatbots are commonly used across many different industries for many different purposes.
 ->Customers also benefit from the use of agriculture research chatbots. Chatbots provide customers access to assistance or customer service that is available on demand without restriction. When customers interact with chatbots, they can get answers to their questions anytime. They also tend to have easier sales experiences and have a more personal connection with the brands that they interact with.
 ->Created a chat bot About Azure.
