@@ -27,3 +27,10 @@ This is informational bot application developed for education related to give in
 ->Azure ChatBot useful for both learners and explorers.
 ->Main concept that my bot gives;About Azure agriculture researche,how it works  detailed view of Azure.
 
+## agriculture researche CHAT BOT WORK
+agriculture researche chatbots use natural language processing (NLP) to help users to interact with web services or apps through text, graphics, or speech. Chatbots can understand natural human language, emulate human conversation, and run simple, automated tasks. In addition, agriculture researche chatbots use predictive intelligence and analytics to learn a user’s preferences and use this knowledge to provide recommendations and anticipate needs.
+
+agriculture researche chatbots are used in a variety of channels, such as messaging apps, mobile apps, websites, phone lines, and voice-enabled apps. They can be developed to handle just a few simple commands or to serve as complex digital assistants and interactive agents. An agriculture researche chatbot can be a part of a larger application or be completely stand-alone.
+
+Read this guide to learn more about what an agriculture researche chatbot is and how agriculture researche chatbots work.
+
