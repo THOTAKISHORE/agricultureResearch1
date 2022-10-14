@@ -15,7 +15,7 @@ This is informational bot application developed for education related to give in
 ->Has collection of pages including Home, About, Contact, ChatBot, F.A.Q and education (Ms Azure) realted information.
 ->User can know about information on Ms Azure through this bot.
 ->Included the contact information to increase scope of improvement.
-->AI chatbots use natural language processing (NLP) to help users to interact with web services or apps through text, graphics, or speech. Chatbots can understand natural human language, emulate human conversation, and run simple, automated tasks.
+->agriculture research chatbots use natural language processing (NLP) to help users to interact with web services or apps through text, graphics, or speech. Chatbots can understand natural human language, emulate human conversation, and run simple, automated tasks.
 
 ##About agriculture research chat bot
 ->An agriculture researche chatbot is a software application that engages in human conversation in a natural way. agriculture researche chatbots are commonly used across many different industries for many different purposes.
