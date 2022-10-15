@@ -38,22 +38,22 @@ Read this guide to learn more about what an agriculture researche chatbot is and
 Home Page
 
 <img width="765" alt="image" src="https://user-images.githubusercontent.com/114974077/195966809-57b73ae0-a1f6-476b-b80b-d6339d8337b9.png">
-## About Page
+ About Page
 
 <img width="726" alt="image" src="https://user-images.githubusercontent.com/114974077/195966905-af0b8150-d7fc-4931-b68c-bf3ba7e191a1.png">
-## About page
+ About page
 
 <img width="712" alt="image" src="https://user-images.githubusercontent.com/114974077/195966954-23cbb3e9-c748-4951-9169-32cc97e28e64.png">
-## gallery page
+ gallery page
 
 <img width="710" alt="image" src="https://user-images.githubusercontent.com/114974077/195967008-1673aca4-64d9-4a89-9ee7-8b6aafde3f9d.png">
-## FAQ page
+ FAQ page
 
 <img width="691" alt="image" src="https://user-images.githubusercontent.com/114974077/195967020-7db69465-5534-4141-b54e-c1f3967ef62c.png">
-
+ Contact us
 <img width="752" alt="image" src="https://user-images.githubusercontent.com/114974077/195967055-d4ba0427-a7ea-4728-8de4-fa3df2b032c6.png">
 
-## Languages and Azure services used in my bot :
+ Languages and Azure services used in my bot :
 
 .HTML
 .QnA Maker
