@@ -34,6 +34,10 @@ agriculture researche chatbots are used in a variety of channels, such as messag
 
 Read this guide to learn more about what an agriculture researche chatbot is and how agriculture researche chatbots work.
 
+## screen short
+
 <img width="765" alt="image" src="https://user-images.githubusercontent.com/114974077/195966809-57b73ae0-a1f6-476b-b80b-d6339d8337b9.png">
+
+
 
 
