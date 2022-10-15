@@ -47,7 +47,7 @@ Home Page
 ## gallery page
 
 <img width="710" alt="image" src="https://user-images.githubusercontent.com/114974077/195967008-1673aca4-64d9-4a89-9ee7-8b6aafde3f9d.png">
-## About page
+## FAQ page
 
 <img width="691" alt="image" src="https://user-images.githubusercontent.com/114974077/195967020-7db69465-5534-4141-b54e-c1f3967ef62c.png">
 
